@@ -1,3 +1,4 @@
+PRC ENB full
 #Mod_Priority,#Mod_Status,#Mod_Name
 "0000","+","Unmanaged: Bashed Patch, 0"
 "0001","+","DLC: Wasteland Workshop"
