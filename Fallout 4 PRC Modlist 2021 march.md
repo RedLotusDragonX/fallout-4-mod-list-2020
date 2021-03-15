@@ -1,4 +1,4 @@
-#Mod_Priority,#Mod_Status,#Mod_Name,#Mod_Nexus_URL
+
 "0000","+","DLC: Wasteland Workshop",""
 "0001","+","DLC: Vault-Tec Workshop",""
 "0002","+","DLC: Nuka-World",""
