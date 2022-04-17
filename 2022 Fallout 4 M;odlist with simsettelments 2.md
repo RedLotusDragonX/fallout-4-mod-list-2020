@@ -1,5 +1,6 @@
 ENB I USE DECENT PLUS - Photographic and Playable https://www.nexusmods.com/fallout4/mods/17631 after intalling it open enb local file ini and change VideoMemorySizeMb=12288 so you dont get the low res blur textures. but id also sugest trying a new enb that looks rely nice as well its called REACTOR - A FALLOUT4 ENB https://www.nexusmods.com/fallout4/mods/57321 
 the textures i use are like 50GB downlode Fallout 4 HD Overhaul https://www.nexusmods.com/fallout4/mods/52423 have fun downloadeg them :)
+IF YOU JUST DONWLOADE THE TXT FILE ITS SIMPLER TO SEE
 # fallout-4-mod-list-2020[Mod Export.txt](https://github.com/RedLotusDragonX/fallout-4-mod-list-2020/files/8502281/Mod.Export.txt)
 
 
